@@ -26,7 +26,3 @@ var tit = document.getElementById("nav");
 ```
 
 > 实例可见文件
-
-# 页面预览
-> 登录界面随意输入用户名密码即可登录
-<http://recklesslmz.com/elementUI/dist/#/>
